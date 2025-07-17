@@ -1,5 +1,4 @@
 #include "ble_client_hid.h"
-#include "esphome/components/text_sensor/text_sensor.h"
 
 #include "usages.h"
 
